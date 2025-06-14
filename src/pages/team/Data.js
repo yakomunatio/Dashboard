@@ -1,0 +1,86 @@
+import { Typography } from "@mui/material";
+
+export const rows = [
+    {
+        id: 1,
+        name: "Rachid Bigharassne",
+        email: "rachidbigharassne@gmail.com",
+        age: "21",
+        phone: "(+212)688-637343",
+        access: "User",
+    },
+    {
+        id: 2,
+        name: "Yassine Achhachar",
+        email: "yassineachhachar@gmail.com",
+        age: "20",
+        phone: "(+212)612-140657",
+        access: "Admin",
+    },
+    {
+        id: 3,
+        name: "Ayman Smayer",
+        email: "aymansmayer@gmail.com",
+        age: "24",
+        phone: "(+212)656-056348",
+        access: "User",
+    },
+
+    {
+        id: 4,
+        name: "Khalid Meknassi",
+        email: "khalid.meknassi@example.com",
+        age: "31",
+        phone: "(+212)668-987654",
+        access: "Admin",
+    },
+    {
+        id: 5,
+        name: "Hanae Elbakkali",
+        email: "hanae.elbakkali@example.com",
+        age: "27",
+        phone: "(+212)655-112233",
+        access: "User",
+    },
+    {
+        id: 6,
+        name: "Youssef Tazi",
+        email: "youssef.tazi@example.com",
+        age: "22",
+        phone: "(+212)664-778899",
+        access: "User",
+    },
+    {
+        id: 7,
+        name: "Nour Eddine Badaoui",
+        email: "nour.badaoui@example.com",
+        age: "34",
+        phone: "(+212)662-998877",
+        access: "Manager",
+    },
+    {
+        id: 8,
+        name: "Aicha Rami",
+        email: "aicha.rami@example.com",
+        age: "26",
+        phone: "(+212)663-556677",
+        access: "Admin",
+    },
+    {
+        id: 9,
+        name: "Mehdi Elkhattabi",
+        email: "mehdi.elkhattabi@example.com",
+        age: "30",
+        phone: "(+212)661-445566",
+        access: "User",
+    },
+    {
+        id: 10,
+        name: "Sofia Lamrani",
+        email: "sofia.lamrani@example.com",
+        age: "28",
+        phone: "(+212)660-334455",
+        access: "User",
+    },
+];
+
